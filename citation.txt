@@ -1,0 +1,6 @@
+@article{REPO-216,
+    author = "Ye, Jiaquan and Qi, Xianbiao and He, Yelin and Chen, Yihao and Gu, Dengyi and Gao, Peng and Xiao, Rong",
+    journal = "arXiv: Computer Vision and Pattern Recognition",
+    title = "{PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Literature Parsing Task B: Table Recognition to HTML}",
+    year = "2021"
+}
